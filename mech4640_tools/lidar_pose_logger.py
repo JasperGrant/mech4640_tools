@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Script to start a subscriber which logs messages from LIDAR and Odometry topics
+# Script to start subscribers which log messages from LIDAR and Odometry topics
 # Written by Jasper Grant
 # 2025-11-18
 
