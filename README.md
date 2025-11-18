@@ -11,3 +11,8 @@ This node logs [LaserScan](https://docs.ros.org/en/lunar/api/sensor_msgs/html/ms
 LIDAR,<LaserScan message data>
 ODOM,<Odometry message data>
 ```
+
+To launch node use the command:
+```bash
+ros2 run mech4640_tools lidar_pose_logger
+````
